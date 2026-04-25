@@ -1,124 +1,124 @@
-,taxonomic_name,common_name,cultivation,sunlight,water,preferred_ph_lower,preferred_ph_upper,nutrients,temperature_class
-0,Pisum sativum,Pea,Legume,Full sun,Very High,6.0,7.5,Medium,Half hardy
-1,Phaseolus coccineus,Beans (Runner),Legume,Full sun,Medium,6.0,6.8,Medium,Tender
-2,Phaseolus vulgari,Beans (French),Legume,Full sun,Medium,6.0,7.5,Medium,Tender
-3,Vicia faba,Beans (Broad),Legume,Full sun/partial shade/full shade,Very Low,6.0,7.0,Medium,Hardy
-4,Brassica oleracea,Cabbage (Spring),Legume,Full sun,High,6.0,7.5,High,Hardy
-5,Brassica oleracea (Italica group),Broccoli,Brassica,Full sun/partial shade,Medium,6.0,7.5,High,Half hardy
-6,Brassica oleracea (Gemmifera group),Brussels Sprouts,Brassica,Full sun,Medium,6.0,7.5,High,Hardy
-7,Brassica oleracea (Botrytis group),Cauliflower,Brassica,Full sun,Medium,5.5,7.5,High,Hardy
-8,Brassica oleracea (Acephala group),Kale,Brassica,Full sun,Low,6.0,7.5,High,Very hardy
-9,Brassica rapa (Rapa group),Turnip,Brassica,Full sun/partial shade,Medium,5.5,7.5,Medium,Very hardy
-10,Cucurbita pepo,Zucchini or Courgette,Cucurbit,Full sun,Medium,6.0,7.0,High,Tender
-11,Cucumis sativus,Cucumber,Cucurbit,Full sun/partial shade,High,5.5,7.0,High,Tender
-12,Cucumis melo,Melon,Cucurbit,Full sun,High,5.5,7.5,High,Tender
-13,Cucurbita moschata,Pumpkin,Cucurbit,Full sun,Medium,6.0,7.0,High,Hardy
-14,Citrullus lanatus,Water melon,Cucurbit,Full sun,High,6.0,7.0,High,Tender
-15,Lactuca sativa,Lettuce (Headed),Salad,Partial shade,High,6.0,7.0,Medium,Tender
-16,Apium graveolens,Celery,Salad,Full sun/partial shade,High,6.0,7.0,High,Tender
-17,cichorium intybus,Chicory,Salad,Full sun/partial shade,Low,6.0,6.7,Low,Hardy
-18,Amaranthus cruentus,Amaranth (Grain),Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Tender
-19,Cynara cardunculus,Artichoke (Globe),Brassica,Full sun/partial shade,Medium,6.0,7.0,High potassium fertiliser every 2 weeks.,Tender
-20,Helianthus tuberosus,Artichoke (Jerusalem),Miscellaneous,Full sun,Low,6.5,7.5,Low,Very hardy
-21,Asparagus officinalis,Asparagus,Miscellaneous,Full sun/partial shade,Medium,6.5,7.5,Medium,Hardy
-22,Solanum melongena,Aubergine,Solanaceae,Full sun,very high,5.5,7.0,High potassium fertiliser every 2 weeks.,Tender
-23,Phaseolus vulgaris,Beans (Borlotti),Legume,Full sun/partial shade,Medium,6.0,6.5,Low,Tender
-24,Beta vulgaris,Beetroot,Umbelliferae,Full sun/partial shade,Medium,6.0,7.5,Medium,Half hardy
-25,Brassica rapa (Chinensis group),Bok Choy,Brassica,Full sun,High,6.5,7.0,Low,Tender
-33,Daucus carota,Carrot,Umbelliferae,Full sun/partial shade,High,5.5,7.0,Low,Hardy
-34,Apium graveolens (var. rapaceum),Celeriac,Umbelliferae,Full sun,High,5.5,6.5,Medium,Hardy
-35,Capsicum annuum (Longum group),Chilli Pepper,Solanaceae,Full sun,Medium,7.0,8.5,High,Tender
-36,Allium schoenoprasum,Chives,Allium,Full sun/partial shade/full shade,Medium,6.0,7.5,Low,Hardy
-37,Lepidium sativum,Cress,Miscellaneous,full sun/partial shade/ full shade,Medium,6.0,7.0,Low,Tender
-38,Cichorium endivia,Endive,Miscellaneous,Full sun/partial shade,Medium,6.0,7.0,Low,Half hardy
-39,Foeniculum vulgare,Fennel,Umbelliferae,Full sun,Medium,6.0,7.0,High,Hardy
-40,Allium sativum,Garlic,Allium,Full sun/partial shade,Medium,5.5,7.5,Low,Very hard
-41,Zingiber officinale,Ginger,Miscellaneous,Partial shade,High,5.0,6.0,Medium,Tender
-42,Brassica oleracea (Gongylodes group),Kohlrabi,Brassica,Full sun/partial shade,Medium,6.0,7.5,Medium,Very hardy
-43,Allium ampeloprasum,Leek,Allium,Full sun/partial shade,Medium,6.5,7.5,Medium,Very hardy
-44,Valerianella locusta,Lettuce (Lambs/Corn Salad),Miscellaneous,Full sun,High,6.0,7.0,Medium,Tender
-46,Claytonia perfoliata,Winter Purslane (Miners lettuce),Miscellaneous,Full sun/partial shade,High,6.0,7.0,Medium,Very hardy
-47,Pisum sativum (var. macrocarpon),Mangetout,Legume,Full sun/partial shade,Medium,6.0,7.0,Medium,Half hardy
-49,Brassica juncea (var. japonica),Mizuna,Brassica,Full sun/partial shade,High,6.5,7.0,High,Hardy
-50,Brassicaceae sinapis alba,Mustard,Brassica,Full sun/partial shade,Medium,6.0,7.5,Medium,Hardy
-51,Abelmoschus esculentus,Okra,Miscellaneous,Full sun,High,6.0,7.5,Medium,Tender
-52,Allium cepa,Onion,Allium,Full sun/partial shade,Medium,6.0,7.0,Medium,Hardy
-54,Allium fistulosum,Onions (Perennial),Allium,Full sun/partial shade,Medium,6.0,7.0,Low,Very hardy
-56,Pastinaca sativa,Parsnip,Umbelliferae,Full sun/partial shade,Medium,5.5,7.5,Low,Half hardy
-57,Capsicum annuum (Grossum group),Bell Pepper,Solanaceae,Full sun/partial shade,Medium,5.5,7.0,High,Tender
-58,Solanum tuberosum,Potatoes (Early),Solanaceae,Full sun,Medium,4.5,6.0,Low,Tender
-60,Portulaca oleracea,Purslane,Miscellaneous,Full sun/partial shade,Low,5.5,7.0,Low,Hardy
-61,Chenopodium quinoa,Quinoa,Miscellaneous,Full sun,Low,6.0,7.0,Low,Tender
-62,Raphanus raphanistrum (subsp. sativus),Radish,Brassica,Full sun/partial shade,Medium,6.0,7.0,Low,Half hardy
-63,Rheum rhabarbarum,Rhubarb,Miscellaneous,Full sun/partial shade,Medium,5.5,7.0,Low,Hardy
-64,Brassicaceae eruca sativa,Rocket,Brassica,Full sun/partial shade,Medium,6.0,7.0,Low,Half hardy
-65,Tragopogon porrifolius,Salsify,Miscellaneous,Full sun,Medium,6.0,7.5,Low,Half hardy
-66,Scorzonera hispanica,Scorzonera (Black salsify),Miscellaneous,Full sun,Medium,6.0,7.0,Low,Hardy
-67,Allium cepa (var. aggregatum),Shallots,Allium,Full sun,Medium,6.0,7.0,Low,Very hardy
-68,Rumex acetosa,Sorrel,Miscellaneous,Full sun/partial shade,Medium,5.5,7.0,Medium,Very hardy
-69,Glycine max,Soybean,Legume,Full sun,Medium,6.0,7.0,Medium,Half hardy
-70,Spinacia oleracea,Spinach,Chenopodiaceae,Full sun/partial shade,Medium,6.0,7.5,Medium,Half hardy
-71,Tetragonia tetragonioides,Spinach (New Zealand),Miscellaneous,Full sun/partial shade,Medium,6.5,7.0,Low,Tender
-72,Beta vulgaris (subsp.cicla),Spinach (Perpetual),Chenopodiaceae,Full sun/partial shade,Medium,6.0,7.0,Low,Very hardy
-75,Cucurbita maxima,Squash (Winter),Cucurbit,Full sun,Medium,5.5,7.0,High,Tender
-76,Brassica napus,Swede / Rutabaga,Brassica,Full sun/partial shade,Medium,5.5,7.0,Low,Hardy
-77,Ipomoea batatas,Sweet Potato,Miscellaneous,Full sun,Medium,5.5,6.0,Medium,Half hardy
-78,Zea mayvar. Saccharata,Sweetcorn,Miscellaneous,Full sun,High,6.0,7.0,Low,Tender
-79,Beta vulgari (subsp. vulgaris),Swiss Chard,Chenopodiaceae,Full sun/partial shade,Medium,6.0,7.5,Low,Very hardy
-80,Brassica rapa (subsp. narinosa),Tatsoi,Brassica,Full sun,Medium,6.0,7.5,Medium,Very hardy
-81,Solanum lycopersicum (var. cerasiforme),Tomato (Cherry),Solanum,Full sun,Medium,5.5,7.5,high,Tender
-82,Solanum lycopersicum,Tomato (Regular),Solanum,Full sun,Medium,5.5,7.5,High,Tender
-84,Pisum sativum (subsp. arvense (L.) Asch),Winter Peas,Legume,Full sun,Low,6.0,7.0,Medium,Very hardy
-85,Ocimum basilicum,Basil,Lamiaceae,Full sun,high,5.5,6.5,Low,Very tender
-86,Laurus nobilis,Bay,Miscellaneous,Full sun,Low,5.5,6.5,Low,Hardy
-87,Borago officinalis,Borage,Miscellaneous,Full sun,Medium,5.5,6.5,Low,Hardy
-88,Capsicum chinense,Bonnet Pepper,Solanaceae,Full sun,Medium,7.0,8.5,Medium,Tender
-89,Matricaria recutita,Chamomile (German chamomile),Miscellaneous,Full sun/partial shade,Low,5.5,7.5,low,Hardy
-90,Prunus dulcis,Almond,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Tender
-91,Malus,Apple,Miscellaneous,Full sun,Medium,6.0,7.5,Medium,Hardy
-92,Prunus armeniaca,Apricot,Miscellaneous,Full sun,Medium,6.5,8.0,Medium,Hardy
-93,Rubus fruticosus agg.,Blackberry,Miscellaneous,Full sun,Medium,6.0,7.0,Low,Very hardy
-94,Ribes nigrum,Blackcurrant,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Very hardy
-95,Vaccinium corymbosum,Blueberry,Miscellaneous,Full sun,Medium,5.0,6.0,Medium,Hardy
-96,Prunus avium,Cherry,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-98,Ficus carica,Fig,Miscellaneous,Full sun/partial shade,Medium,6.0,6.5,High,Hardy
-99,Ribes grossularia,Gooseberry,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-100,Vitis vinifera,Grape,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-101,Corylus avellana,Hazel,Miscellaneous,Full sun/partial shade,Medium,6.5,7.5,Medium,Hardy
-102,Humulus lupulus,Hops,Miscellaneous,Full sun,Medium,6.5,8.0,High,Hardy
-103,Actinidia callosa,Kiwi,Miscellaneous,Full sun,Medium,5.5,7.0,Medium,Hardy
-104,Citrus limon,Lemon,Miscellaneous,Full sun,Medium,5.5,7.0,Medium,Tender
-105,Citrus aurantiifolia,Lime,Miscellaneous,Full sun,Medium,5.5,7.0,Medium,Tender
-106,Rubus loganobaccus,Loganberry,Miscellaneous,Full sun/partial shade,Medium,5.5,7.0,Medium,Hardy
-107,Prunus persica var. nucipersica,Nectarine,Miscellaneous,Full sun,Medium,5.5,7.0,Medium,Hardy
-108,Citrus reticulata,Orange,Miscellaneous,Full sun,Medium,5.5,7.0,Medium,Tender
-109,Prunus persica,Peach,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-110,Pyrus communis,Pear,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-111,Diospyros chinensis,Persimmon,Miscellaneous,Full sun,Medium,5.5,6.5,Low,Hardy
-112,Prunus domestica,Plum,Miscellaneous,Full sun,Medium,6.0,8.0,Medium to high,Hardy
-113,Punica granatum,Pomagranate,Miscellaneous,Full sun,Medium,5.0,6.0,Medium,Hardy
-114,Rubus idaeus,Raspberry,Miscellaneous,Full sun,Medium,5.5,6.5,Low,Hardy
-115,Ribes rubrum,Redcurrant,Miscellaneous,Full sun,Medium,6.0,7.0,Medium,Hardy
-116,Juglans,Walnut,Miscellaneous,Full sun/partial shade,Medium,5.5,7.5,Medium,Hardy
-118,Castanea sativa,Chestnut,Miscellaneous,Full sun,Medium,5.5,6.0,Medium,Hardy
-119,Lonicera caerulea,Honey Berry,Miscellaneous,Partial shade,Medium,5.0,7.0,Medium,Very hardy
-120,Calendula officinalis,Calendula,Miscellaneous,Full sun/partial shade,Medium,5.5,7.0,Low,Hardy
-121,Nepeta cataria,Catnip,Miscellaneous,Full sun,Low,6.0,7.5,Low,Hardy
-122,Chamaemelum nobile,Chamomile (Roman chamomile),Miscellaneous,Full sun/partial shade,Low,5.5,7.5,Low,Hardy
-123,Valeriana officinalis,Valerian,Miscellaneous,Full sun,Medium,5.5,7.0,Low,Hardy
-124,Symphytum officinale,Comfrey,Miscellaneous,Partial shade,Medium,6.0,7.0,Low,Hardy
-125,Coriandrum sativum,Coriander,Umbelliferae,Full sun,Medium,6.0,7.0,Low,Hardy
-126,Anethum graveolens,Dill,Umbelliferae,Full sun,Medium,5.5,7.0,Medium,Hardy
-127,Thymus vulgaris,Thyme,Miscellaneous,Full sun,Low,5.5,7.0,Low,Hardy
-128,Tanacetum parthenium,Feverfew,Miscellaneous,Full sun,Low,6.0,8.0,Low,Hardy
-129,Armoracia rusticana,Horseradish,Brassicas,Full sun,Medium,5.0,7.5,Medium,Very hardy
-130,Cymbopogon citratus,Lemon Grass,Miscellaneous,Full sun,High,5.0,8.0,Low,Very tender
-131,Origanum majorana,Marjoram,Lamiaceae,Full sun,Low,6.0,8.0,Low,Hardy
-132,Mentha spicata,Mint,Lamiaceae,Full sun,Low,7.0,8.0,Low,Very hardy
-133,Origanum vulgare,Oregano,Lamiaceae,Full sun,Low,6.0,7.0,Low,Hardy
-134,Petroselinum crispum,Parsley,Umbelliferae,Full sun/partial shade,Medium,5.0,7.0,Medium,Hardy
-135,Rosmarinus officinalis,Rosemary,Miscellaneous,Full sun,Low,5.0,6.0,Low,Hardy
-136,Salvia officinalis,Sage,Miscellaneous,Full sun,Low,5.5,6.5,Low,Hardy
-137,Artemisia dracunculus,Tarragon (French),Miscellaneous,Full sun,Low,6.5,7.5,Low,Hardy
-138,Fragaria ananassa,Strawberry,Miscellaneous,Full sun,Medium,5.5,6.5,Medium,Hardy
-139,Melissa officinalis,Lemon balm,Miscellaneous,Full sun,Medium,6.0,7.5,low,Very hardy
+taxonomic_name,common_name,cultivation,sunlight,water,preferred_ph_lower,preferred_ph_upper,nutrients,temperature_class,water_code,nutrients_code,temperature_class_code
+Pisum sativum,Pea,legume,full sun,very high,6.0,7.5,medium,half hardy,5,2,3
+Phaseolus coccineus,Beans (Runner),legume,full sun,medium,6.0,6.8,medium,tender,3,2,2
+Phaseolus vulgari,Beans (French),legume,full sun,medium,6.0,7.5,medium,tender,3,2,2
+Vicia faba,Beans (Broad),legume,full sun/partial shade/full shade,very low,6.0,7.0,medium,hardy,2,2,4
+Brassica oleracea,Cabbage (Spring),legume,full sun,high,6.0,7.5,high,hardy,4,4,4
+Brassica oleracea (Italica group),Broccoli,brassica,full sun/partial shade,medium,6.0,7.5,high,half hardy,3,4,3
+Brassica oleracea (Gemmifera group),Brussels Sprouts,brassica,full sun,medium,6.0,7.5,high,hardy,3,4,4
+Brassica oleracea (Botrytis group),Cauliflower,brassica,full sun,medium,5.5,7.5,high,hardy,3,4,4
+Brassica oleracea (Acephala group),Kale,brassica,full sun,low,6.0,7.5,high,very hardy,1,4,5
+Brassica rapa (Rapa group),Turnip,brassica,full sun/partial shade,medium,5.5,7.5,medium,very hardy,3,2,5
+Cucurbita pepo,Zucchini or Courgette,cucurbit,full sun,medium,6.0,7.0,high,tender,3,4,2
+Cucumis sativus,Cucumber,cucurbit,full sun/partial shade,high,5.5,7.0,high,tender,4,4,2
+Cucumis melo,Melon,cucurbit,full sun,high,5.5,7.5,high,tender,4,4,2
+Cucurbita moschata,Pumpkin,cucurbit,full sun,medium,6.0,7.0,high,hardy,3,4,4
+Citrullus lanatus,Water melon,cucurbit,full sun,high,6.0,7.0,high,tender,4,4,2
+Lactuca sativa,Lettuce (Headed),salad,partial shade,high,6.0,7.0,medium,tender,4,2,2
+Apium graveolens,Celery,salad,full sun/partial shade,high,6.0,7.0,high,tender,4,4,2
+cichorium intybus,Chicory,salad,full sun/partial shade,low,6.0,6.7,low,hardy,1,1,4
+Amaranthus cruentus,Amaranth (Grain),miscellaneous,full sun,medium,6.0,7.0,medium,tender,3,2,2
+Cynara cardunculus,Artichoke (Globe),brassica,full sun/partial shade,medium,6.0,7.0,high,tender,3,4,2
+Helianthus tuberosus,Artichoke (Jerusalem),miscellaneous,full sun,low,6.5,7.5,low,very hardy,1,1,5
+Asparagus officinalis,Asparagus,miscellaneous,full sun/partial shade,medium,6.5,7.5,medium,hardy,3,2,4
+Solanum melongena,Aubergine,solanaceae,full sun,very high,5.5,7.0,high,tender,5,4,2
+Phaseolus vulgaris,Beans (Borlotti),legume,full sun/partial shade,medium,6.0,6.5,low,tender,3,1,2
+Beta vulgaris,Beetroot,umbelliferae,full sun/partial shade,medium,6.0,7.5,medium,half hardy,3,2,3
+Brassica rapa (Chinensis group),Bok Choy,brassica,full sun,high,6.5,7.0,low,tender,4,1,2
+Daucus carota,Carrot,umbelliferae,full sun/partial shade,high,5.5,7.0,low,hardy,4,1,4
+Apium graveolens (var. rapaceum),Celeriac,umbelliferae,full sun,high,5.5,6.5,medium,hardy,4,2,4
+Capsicum annuum (Longum group),Chilli Pepper,solanaceae,full sun,medium,7.0,8.5,high,tender,3,4,2
+Allium schoenoprasum,Chives,allium,full sun/partial shade/full shade,medium,6.0,7.5,low,hardy,3,1,4
+Lepidium sativum,Cress,miscellaneous,full sun/partial shade/full shade,medium,6.0,7.0,low,tender,3,1,2
+Cichorium endivia,Endive,miscellaneous,full sun/partial shade,medium,6.0,7.0,low,half hardy,3,1,3
+Foeniculum vulgare,Fennel,umbelliferae,full sun,medium,6.0,7.0,high,hardy,3,4,4
+Allium sativum,Garlic,allium,full sun/partial shade,medium,5.5,7.5,low,very hardy,3,1,5
+Zingiber officinale,Ginger,miscellaneous,partial shade,high,5.0,6.0,medium,tender,4,2,2
+Brassica oleracea (Gongylodes group),Kohlrabi,brassica,full sun/partial shade,medium,6.0,7.5,medium,very hardy,3,2,5
+Allium ampeloprasum,Leek,allium,full sun/partial shade,medium,6.5,7.5,medium,very hardy,3,2,5
+Valerianella locusta,Lettuce (Lambs/Corn Salad),miscellaneous,full sun,high,6.0,7.0,medium,tender,4,2,2
+Claytonia perfoliata,Winter Purslane (Miners lettuce),miscellaneous,full sun/partial shade,high,6.0,7.0,medium,very hardy,4,2,5
+Pisum sativum (var. macrocarpon),Mangetout,legume,full sun/partial shade,medium,6.0,7.0,medium,half hardy,3,2,3
+Brassica juncea (var. japonica),Mizuna,brassica,full sun/partial shade,high,6.5,7.0,high,hardy,4,4,4
+Brassicaceae sinapis alba,Mustard,brassica,full sun/partial shade,medium,6.0,7.5,medium,hardy,3,2,4
+Abelmoschus esculentus,Okra,miscellaneous,full sun,high,6.0,7.5,medium,tender,4,2,2
+Allium cepa,Onion,allium,full sun/partial shade,medium,6.0,7.0,medium,hardy,3,2,4
+Allium fistulosum,Onions (Perennial),allium,full sun/partial shade,medium,6.0,7.0,low,very hardy,3,1,5
+Pastinaca sativa,Parsnip,umbelliferae,full sun/partial shade,medium,5.5,7.5,low,half hardy,3,1,3
+Capsicum annuum (Grossum group),Bell Pepper,solanaceae,full sun/partial shade,medium,5.5,7.0,high,tender,3,4,2
+Solanum tuberosum,Potatoes (Early),solanaceae,full sun,medium,4.5,6.0,low,tender,3,1,2
+Portulaca oleracea,Purslane,miscellaneous,full sun/partial shade,low,5.5,7.0,low,hardy,1,1,4
+Chenopodium quinoa,Quinoa,miscellaneous,full sun,low,6.0,7.0,low,tender,1,1,2
+Raphanus raphanistrum (subsp. sativus),Radish,brassica,full sun/partial shade,medium,6.0,7.0,low,half hardy,3,1,3
+Rheum rhabarbarum,Rhubarb,miscellaneous,full sun/partial shade,medium,5.5,7.0,low,hardy,3,1,4
+Brassicaceae eruca sativa,Rocket,brassica,full sun/partial shade,medium,6.0,7.0,low,half hardy,3,1,3
+Tragopogon porrifolius,Salsify,miscellaneous,full sun,medium,6.0,7.5,low,half hardy,3,1,3
+Scorzonera hispanica,Scorzonera (Black salsify),miscellaneous,full sun,medium,6.0,7.0,low,hardy,3,1,4
+Allium cepa (var. aggregatum),Shallots,allium,full sun,medium,6.0,7.0,low,very hardy,3,1,5
+Rumex acetosa,Sorrel,miscellaneous,full sun/partial shade,medium,5.5,7.0,medium,very hardy,3,2,5
+Glycine max,Soybean,legume,full sun,medium,6.0,7.0,medium,half hardy,3,2,3
+Spinacia oleracea,Spinach,chenopodiaceae,full sun/partial shade,medium,6.0,7.5,medium,half hardy,3,2,3
+Tetragonia tetragonioides,Spinach (New Zealand),miscellaneous,full sun/partial shade,medium,6.5,7.0,low,tender,3,1,2
+Beta vulgaris (subsp.cicla),Spinach (Perpetual),chenopodiaceae,full sun/partial shade,medium,6.0,7.0,low,very hardy,3,1,5
+Cucurbita maxima,Squash (Winter),cucurbit,full sun,medium,5.5,7.0,high,tender,3,4,2
+Brassica napus,Swede / Rutabaga,brassica,full sun/partial shade,medium,5.5,7.0,low,hardy,3,1,4
+Ipomoea batatas,Sweet Potato,miscellaneous,full sun,medium,5.5,6.0,medium,half hardy,3,2,3
+Zea mayvar. Saccharata,Sweetcorn,miscellaneous,full sun,high,6.0,7.0,low,tender,4,1,2
+Beta vulgari (subsp. vulgaris),Swiss Chard,chenopodiaceae,full sun/partial shade,medium,6.0,7.5,low,very hardy,3,1,5
+Brassica rapa (subsp. narinosa),Tatsoi,brassica,full sun,medium,6.0,7.5,medium,very hardy,3,2,5
+Solanum lycopersicum (var. cerasiforme),Tomato (Cherry),solanum,full sun,medium,5.5,7.5,high,tender,3,4,2
+Solanum lycopersicum,Tomato (Regular),solanum,full sun,medium,5.5,7.5,high,tender,3,4,2
+Pisum sativum (subsp. arvense (L.) Asch),Winter Peas,legume,full sun,low,6.0,7.0,medium,very hardy,1,2,5
+Ocimum basilicum,Basil,lamiaceae,full sun,high,5.5,6.5,low,very tender,4,1,1
+Laurus nobilis,Bay,miscellaneous,full sun,low,5.5,6.5,low,hardy,1,1,4
+Borago officinalis,Borage,miscellaneous,full sun,medium,5.5,6.5,low,hardy,3,1,4
+Capsicum chinense,Bonnet Pepper,solanaceae,full sun,medium,7.0,8.5,medium,tender,3,2,2
+Matricaria recutita,Chamomile (German chamomile),miscellaneous,full sun/partial shade,low,5.5,7.5,low,hardy,1,1,4
+Prunus dulcis,Almond,miscellaneous,full sun,medium,6.0,7.0,medium,tender,3,2,2
+Malus,Apple,miscellaneous,full sun,medium,6.0,7.5,medium,hardy,3,2,4
+Prunus armeniaca,Apricot,miscellaneous,full sun,medium,6.5,8.0,medium,hardy,3,2,4
+Rubus fruticosus agg.,Blackberry,miscellaneous,full sun,medium,6.0,7.0,low,very hardy,3,1,5
+Ribes nigrum,Blackcurrant,miscellaneous,full sun,medium,6.0,7.0,medium,very hardy,3,2,5
+Vaccinium corymbosum,Blueberry,miscellaneous,full sun,medium,5.0,6.0,medium,hardy,3,2,4
+Prunus avium,Cherry,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Ficus carica,Fig,miscellaneous,full sun/partial shade,medium,6.0,6.5,high,hardy,3,4,4
+Ribes grossularia,Gooseberry,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Vitis vinifera,Grape,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Corylus avellana,Hazel,miscellaneous,full sun/partial shade,medium,6.5,7.5,medium,hardy,3,2,4
+Humulus lupulus,Hops,miscellaneous,full sun,medium,6.5,8.0,high,hardy,3,4,4
+Actinidia callosa,Kiwi,miscellaneous,full sun,medium,5.5,7.0,medium,hardy,3,2,4
+Citrus limon,Lemon,miscellaneous,full sun,medium,5.5,7.0,medium,tender,3,2,2
+Citrus aurantiifolia,Lime,miscellaneous,full sun,medium,5.5,7.0,medium,tender,3,2,2
+Rubus loganobaccus,Loganberry,miscellaneous,full sun/partial shade,medium,5.5,7.0,medium,hardy,3,2,4
+Prunus persica var. nucipersica,Nectarine,miscellaneous,full sun,medium,5.5,7.0,medium,hardy,3,2,4
+Citrus reticulata,Orange,miscellaneous,full sun,medium,5.5,7.0,medium,tender,3,2,2
+Prunus persica,Peach,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Pyrus communis,Pear,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Diospyros chinensis,Persimmon,miscellaneous,full sun,medium,5.5,6.5,low,hardy,3,1,4
+Prunus domestica,Plum,miscellaneous,full sun,medium,6.0,8.0,medium to high,hardy,3,3,4
+Punica granatum,Pomagranate,miscellaneous,full sun,medium,5.0,6.0,medium,hardy,3,2,4
+Rubus idaeus,Raspberry,miscellaneous,full sun,medium,5.5,6.5,low,hardy,3,1,4
+Ribes rubrum,Redcurrant,miscellaneous,full sun,medium,6.0,7.0,medium,hardy,3,2,4
+Juglans,Walnut,miscellaneous,full sun/partial shade,medium,5.5,7.5,medium,hardy,3,2,4
+Castanea sativa,Chestnut,miscellaneous,full sun,medium,5.5,6.0,medium,hardy,3,2,4
+Lonicera caerulea,Honey Berry,miscellaneous,partial shade,medium,5.0,7.0,medium,very hardy,3,2,5
+Calendula officinalis,Calendula,miscellaneous,full sun/partial shade,medium,5.5,7.0,low,hardy,3,1,4
+Nepeta cataria,Catnip,miscellaneous,full sun,low,6.0,7.5,low,hardy,1,1,4
+Chamaemelum nobile,Chamomile (Roman chamomile),miscellaneous,full sun/partial shade,low,5.5,7.5,low,hardy,1,1,4
+Valeriana officinalis,Valerian,miscellaneous,full sun,medium,5.5,7.0,low,hardy,3,1,4
+Symphytum officinale,Comfrey,miscellaneous,partial shade,medium,6.0,7.0,low,hardy,3,1,4
+Coriandrum sativum,Coriander,umbelliferae,full sun,medium,6.0,7.0,low,hardy,3,1,4
+Anethum graveolens,Dill,umbelliferae,full sun,medium,5.5,7.0,medium,hardy,3,2,4
+Thymus vulgaris,Thyme,miscellaneous,full sun,low,5.5,7.0,low,hardy,1,1,4
+Tanacetum parthenium,Feverfew,miscellaneous,full sun,low,6.0,8.0,low,hardy,1,1,4
+Armoracia rusticana,Horseradish,brassicas,full sun,medium,5.0,7.5,medium,very hardy,3,2,5
+Cymbopogon citratus,Lemon Grass,miscellaneous,full sun,high,5.0,8.0,low,very tender,4,1,1
+Origanum majorana,Marjoram,lamiaceae,full sun,low,6.0,8.0,low,hardy,1,1,4
+Mentha spicata,Mint,lamiaceae,full sun,low,7.0,8.0,low,very hardy,1,1,5
+Origanum vulgare,Oregano,lamiaceae,full sun,low,6.0,7.0,low,hardy,1,1,4
+Petroselinum crispum,Parsley,umbelliferae,full sun/partial shade,medium,5.0,7.0,medium,hardy,3,2,4
+Rosmarinus officinalis,Rosemary,miscellaneous,full sun,low,5.0,6.0,low,hardy,1,1,4
+Salvia officinalis,Sage,miscellaneous,full sun,low,5.5,6.5,low,hardy,1,1,4
+Artemisia dracunculus,Tarragon (French),miscellaneous,full sun,low,6.5,7.5,low,hardy,1,1,4
+Fragaria ananassa,Strawberry,miscellaneous,full sun,medium,5.5,6.5,medium,hardy,3,2,4
+Melissa officinalis,Lemon balm,miscellaneous,full sun,medium,6.0,7.5,low,very hardy,3,1,5

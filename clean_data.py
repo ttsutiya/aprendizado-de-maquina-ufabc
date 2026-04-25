@@ -70,8 +70,23 @@ check_null / len(editable_plants)
 drop_cols = check_null[check_null > 0].index
 editable_plants = editable_plants.drop(columns=drop_cols)
 
-editable_plants.to_csv("clean_editable_plants.csv")
 
-# Perguntas originais
-# Do plants that require more sunlight also require higher tempeteratures?
-# What cultivation classes require the most water?
+#####
+editable_plants.columns
+
+editable_plants.iloc[0]
+
+editable_plants.sunlight.unique()
+
+editable_plants.loc[
+    editable_plants.sunlight == "full sun/partial shade/ full shade", "sunlight"
+] = "Full sun/partial shade/full shade"
+
+sunlight_map = {
+    "Partial shade",
+    "Full sun",
+    "Full sun/partial shade",
+    "Full sun/partial shade/full shade",
+    "full sun/partial shade/ full shade",
+}
+editable_plants.to_csv("clean_editable_plants.csv", index=False)
