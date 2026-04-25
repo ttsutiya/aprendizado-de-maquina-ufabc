@@ -76,17 +76,71 @@ editable_plants.columns
 
 editable_plants.iloc[0]
 
+editable_plants.cultivation.unique()
+
+editable_plants.cultivation = editable_plants.cultivation.str.lower().str.strip()
+
 editable_plants.sunlight.unique()
 
-editable_plants.loc[
-    editable_plants.sunlight == "full sun/partial shade/ full shade", "sunlight"
-] = "Full sun/partial shade/full shade"
+editable_plants.sunlight = editable_plants.sunlight.replace(
+    {"full sun/partial shade/ full shade": "Full sun/partial shade/full shade"}
+)
 
-sunlight_map = {
-    "Partial shade",
-    "Full sun",
-    "Full sun/partial shade",
-    "Full sun/partial shade/full shade",
-    "full sun/partial shade/ full shade",
+editable_plants.sunlight = editable_plants.sunlight.str.lower().str.strip()
+
+editable_plants.water.unique()
+
+editable_plants.water = editable_plants.water.str.lower().str.strip()
+
+water_map = {
+    "low": 1,
+    "very low": 2,
+    "medium": 3,
+    "high": 4,
+    "very high": 5,
 }
+
+editable_plants["water_code"] = editable_plants.water.map(water_map)
+
+
+editable_plants.nutrients.unique()
+
+editable_plants.nutrients = editable_plants.nutrients.str.lower().str.strip()
+
+mask = editable_plants.nutrients == "high potassium fertiliser every 2 weeks."
+editable_plants.loc[mask, "nutrients"] = "high"
+
+
+nutrients_map = {
+    "low": 1,
+    "medium": 2,
+    "medium to high": 3,
+    "high": 4,
+}
+
+editable_plants["nutrients_code"] = editable_plants.nutrients.map(nutrients_map)
+
+
+editable_plants.temperature_class.unique()
+
+editable_plants.temperature_class = (
+    editable_plants.temperature_class.str.lower().str.strip()
+)
+
+mask = editable_plants.temperature_class == "very hard"
+editable_plants.loc[mask, "temperature_class"] = "very hardy"
+
+temperature_class_map = {
+    "very tender": 1,
+    "tender": 2,
+    "half hardy": 3,
+    "hardy": 4,
+    "very hardy": 5,
+}
+
+editable_plants["temperature_class_code"] = editable_plants.temperature_class.map(
+    temperature_class_map
+)
+
+
 editable_plants.to_csv("clean_editable_plants.csv", index=False)
