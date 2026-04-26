@@ -3,6 +3,7 @@ import pandas as pd
 editable_plants = pd.read_csv("editable_plants.csv", index_col=0)
 len(editable_plants)
 
+
 editable_plants.columns
 
 editable_plants.iloc[0, :]
@@ -71,7 +72,6 @@ drop_cols = check_null[check_null > 0].index
 editable_plants = editable_plants.drop(columns=drop_cols)
 
 
-#####
 editable_plants.columns
 
 editable_plants.iloc[0]
@@ -79,6 +79,9 @@ editable_plants.iloc[0]
 editable_plants.cultivation.unique()
 
 editable_plants.cultivation = editable_plants.cultivation.str.lower().str.strip()
+editable_plants["cultivation"] = editable_plants.cultivation.replace(
+    {"brassicas": "brassica"}
+)
 
 editable_plants.sunlight.unique()
 
