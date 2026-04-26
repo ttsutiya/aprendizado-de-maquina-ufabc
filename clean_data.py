@@ -95,6 +95,11 @@ editable_plants.sunlight = editable_plants.sunlight.replace(
 
 editable_plants.sunlight = editable_plants.sunlight.str.lower().str.strip()
 
+editable_plants.columns
+
+editable_plants = pd.get_dummies(editable_plants, columns=["sunlight"], drop_first=True)
+
+
 editable_plants.water.unique()
 
 editable_plants.water = editable_plants.water.str.lower().str.strip()

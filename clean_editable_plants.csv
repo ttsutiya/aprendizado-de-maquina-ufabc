@@ -1,124 +1,124 @@
-taxonomic_name,common_name,sunlight,water,preferred_ph_lower,preferred_ph_upper,nutrients,temperature_class,cultivation_brassica,cultivation_chenopodiaceae,cultivation_cucurbit,cultivation_lamiaceae,cultivation_legume,cultivation_miscellaneous,cultivation_salad,cultivation_solanaceae,cultivation_solanum,cultivation_umbelliferae,water_code,nutrients_code,temperature_class_code
-Pisum sativum,Pea,full sun,very high,6.0,7.5,medium,half hardy,False,False,False,False,True,False,False,False,False,False,5,2,3
-Phaseolus coccineus,Beans (Runner),full sun,medium,6.0,6.8,medium,tender,False,False,False,False,True,False,False,False,False,False,3,2,2
-Phaseolus vulgari,Beans (French),full sun,medium,6.0,7.5,medium,tender,False,False,False,False,True,False,False,False,False,False,3,2,2
-Vicia faba,Beans (Broad),full sun/partial shade/full shade,very low,6.0,7.0,medium,hardy,False,False,False,False,True,False,False,False,False,False,2,2,4
-Brassica oleracea,Cabbage (Spring),full sun,high,6.0,7.5,high,hardy,False,False,False,False,True,False,False,False,False,False,4,4,4
-Brassica oleracea (Italica group),Broccoli,full sun/partial shade,medium,6.0,7.5,high,half hardy,True,False,False,False,False,False,False,False,False,False,3,4,3
-Brassica oleracea (Gemmifera group),Brussels Sprouts,full sun,medium,6.0,7.5,high,hardy,True,False,False,False,False,False,False,False,False,False,3,4,4
-Brassica oleracea (Botrytis group),Cauliflower,full sun,medium,5.5,7.5,high,hardy,True,False,False,False,False,False,False,False,False,False,3,4,4
-Brassica oleracea (Acephala group),Kale,full sun,low,6.0,7.5,high,very hardy,True,False,False,False,False,False,False,False,False,False,1,4,5
-Brassica rapa (Rapa group),Turnip,full sun/partial shade,medium,5.5,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,3,2,5
-Cucurbita pepo,Zucchini or Courgette,full sun,medium,6.0,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,3,4,2
-Cucumis sativus,Cucumber,full sun/partial shade,high,5.5,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,4,4,2
-Cucumis melo,Melon,full sun,high,5.5,7.5,high,tender,False,False,True,False,False,False,False,False,False,False,4,4,2
-Cucurbita moschata,Pumpkin,full sun,medium,6.0,7.0,high,hardy,False,False,True,False,False,False,False,False,False,False,3,4,4
-Citrullus lanatus,Water melon,full sun,high,6.0,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,4,4,2
-Lactuca sativa,Lettuce (Headed),partial shade,high,6.0,7.0,medium,tender,False,False,False,False,False,False,True,False,False,False,4,2,2
-Apium graveolens,Celery,full sun/partial shade,high,6.0,7.0,high,tender,False,False,False,False,False,False,True,False,False,False,4,4,2
-cichorium intybus,Chicory,full sun/partial shade,low,6.0,6.7,low,hardy,False,False,False,False,False,False,True,False,False,False,1,1,4
-Amaranthus cruentus,Amaranth (Grain),full sun,medium,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,3,2,2
-Cynara cardunculus,Artichoke (Globe),full sun/partial shade,medium,6.0,7.0,high,tender,True,False,False,False,False,False,False,False,False,False,3,4,2
-Helianthus tuberosus,Artichoke (Jerusalem),full sun,low,6.5,7.5,low,very hardy,False,False,False,False,False,True,False,False,False,False,1,1,5
-Asparagus officinalis,Asparagus,full sun/partial shade,medium,6.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Solanum melongena,Aubergine,full sun,very high,5.5,7.0,high,tender,False,False,False,False,False,False,False,True,False,False,5,4,2
-Phaseolus vulgaris,Beans (Borlotti),full sun/partial shade,medium,6.0,6.5,low,tender,False,False,False,False,True,False,False,False,False,False,3,1,2
-Beta vulgaris,Beetroot,full sun/partial shade,medium,6.0,7.5,medium,half hardy,False,False,False,False,False,False,False,False,False,True,3,2,3
-Brassica rapa (Chinensis group),Bok Choy,full sun,high,6.5,7.0,low,tender,True,False,False,False,False,False,False,False,False,False,4,1,2
-Daucus carota,Carrot,full sun/partial shade,high,5.5,7.0,low,hardy,False,False,False,False,False,False,False,False,False,True,4,1,4
-Apium graveolens (var. rapaceum),Celeriac,full sun,high,5.5,6.5,medium,hardy,False,False,False,False,False,False,False,False,False,True,4,2,4
-Capsicum annuum (Longum group),Chilli Pepper,full sun,medium,7.0,8.5,high,tender,False,False,False,False,False,False,False,True,False,False,3,4,2
-Allium schoenoprasum,Chives,full sun/partial shade/full shade,medium,6.0,7.5,low,hardy,False,False,False,False,False,False,False,False,False,False,3,1,4
-Lepidium sativum,Cress,full sun/partial shade/full shade,medium,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,3,1,2
-Cichorium endivia,Endive,full sun/partial shade,medium,6.0,7.0,low,half hardy,False,False,False,False,False,True,False,False,False,False,3,1,3
-Foeniculum vulgare,Fennel,full sun,medium,6.0,7.0,high,hardy,False,False,False,False,False,False,False,False,False,True,3,4,4
-Allium sativum,Garlic,full sun/partial shade,medium,5.5,7.5,low,very hardy,False,False,False,False,False,False,False,False,False,False,3,1,5
-Zingiber officinale,Ginger,partial shade,high,5.0,6.0,medium,tender,False,False,False,False,False,True,False,False,False,False,4,2,2
-Brassica oleracea (Gongylodes group),Kohlrabi,full sun/partial shade,medium,6.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,3,2,5
-Allium ampeloprasum,Leek,full sun/partial shade,medium,6.5,7.5,medium,very hardy,False,False,False,False,False,False,False,False,False,False,3,2,5
-Valerianella locusta,Lettuce (Lambs/Corn Salad),full sun,high,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,4,2,2
-Claytonia perfoliata,Winter Purslane (Miners lettuce),full sun/partial shade,high,6.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,4,2,5
-Pisum sativum (var. macrocarpon),Mangetout,full sun/partial shade,medium,6.0,7.0,medium,half hardy,False,False,False,False,True,False,False,False,False,False,3,2,3
-Brassica juncea (var. japonica),Mizuna,full sun/partial shade,high,6.5,7.0,high,hardy,True,False,False,False,False,False,False,False,False,False,4,4,4
-Brassicaceae sinapis alba,Mustard,full sun/partial shade,medium,6.0,7.5,medium,hardy,True,False,False,False,False,False,False,False,False,False,3,2,4
-Abelmoschus esculentus,Okra,full sun,high,6.0,7.5,medium,tender,False,False,False,False,False,True,False,False,False,False,4,2,2
-Allium cepa,Onion,full sun/partial shade,medium,6.0,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,False,3,2,4
-Allium fistulosum,Onions (Perennial),full sun/partial shade,medium,6.0,7.0,low,very hardy,False,False,False,False,False,False,False,False,False,False,3,1,5
-Pastinaca sativa,Parsnip,full sun/partial shade,medium,5.5,7.5,low,half hardy,False,False,False,False,False,False,False,False,False,True,3,1,3
-Capsicum annuum (Grossum group),Bell Pepper,full sun/partial shade,medium,5.5,7.0,high,tender,False,False,False,False,False,False,False,True,False,False,3,4,2
-Solanum tuberosum,Potatoes (Early),full sun,medium,4.5,6.0,low,tender,False,False,False,False,False,False,False,True,False,False,3,1,2
-Portulaca oleracea,Purslane,full sun/partial shade,low,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Chenopodium quinoa,Quinoa,full sun,low,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,1,1,2
-Raphanus raphanistrum (subsp. sativus),Radish,full sun/partial shade,medium,6.0,7.0,low,half hardy,True,False,False,False,False,False,False,False,False,False,3,1,3
-Rheum rhabarbarum,Rhubarb,full sun/partial shade,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Brassicaceae eruca sativa,Rocket,full sun/partial shade,medium,6.0,7.0,low,half hardy,True,False,False,False,False,False,False,False,False,False,3,1,3
-Tragopogon porrifolius,Salsify,full sun,medium,6.0,7.5,low,half hardy,False,False,False,False,False,True,False,False,False,False,3,1,3
-Scorzonera hispanica,Scorzonera (Black salsify),full sun,medium,6.0,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Allium cepa (var. aggregatum),Shallots,full sun,medium,6.0,7.0,low,very hardy,False,False,False,False,False,False,False,False,False,False,3,1,5
-Rumex acetosa,Sorrel,full sun/partial shade,medium,5.5,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,3,2,5
-Glycine max,Soybean,full sun,medium,6.0,7.0,medium,half hardy,False,False,False,False,True,False,False,False,False,False,3,2,3
-Spinacia oleracea,Spinach,full sun/partial shade,medium,6.0,7.5,medium,half hardy,False,True,False,False,False,False,False,False,False,False,3,2,3
-Tetragonia tetragonioides,Spinach (New Zealand),full sun/partial shade,medium,6.5,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,3,1,2
-Beta vulgaris (subsp.cicla),Spinach (Perpetual),full sun/partial shade,medium,6.0,7.0,low,very hardy,False,True,False,False,False,False,False,False,False,False,3,1,5
-Cucurbita maxima,Squash (Winter),full sun,medium,5.5,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,3,4,2
-Brassica napus,Swede / Rutabaga,full sun/partial shade,medium,5.5,7.0,low,hardy,True,False,False,False,False,False,False,False,False,False,3,1,4
-Ipomoea batatas,Sweet Potato,full sun,medium,5.5,6.0,medium,half hardy,False,False,False,False,False,True,False,False,False,False,3,2,3
-Zea mayvar. Saccharata,Sweetcorn,full sun,high,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,4,1,2
-Beta vulgari (subsp. vulgaris),Swiss Chard,full sun/partial shade,medium,6.0,7.5,low,very hardy,False,True,False,False,False,False,False,False,False,False,3,1,5
-Brassica rapa (subsp. narinosa),Tatsoi,full sun,medium,6.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,3,2,5
-Solanum lycopersicum (var. cerasiforme),Tomato (Cherry),full sun,medium,5.5,7.5,high,tender,False,False,False,False,False,False,False,False,True,False,3,4,2
-Solanum lycopersicum,Tomato (Regular),full sun,medium,5.5,7.5,high,tender,False,False,False,False,False,False,False,False,True,False,3,4,2
-Pisum sativum (subsp. arvense (L.) Asch),Winter Peas,full sun,low,6.0,7.0,medium,very hardy,False,False,False,False,True,False,False,False,False,False,1,2,5
-Ocimum basilicum,Basil,full sun,high,5.5,6.5,low,very tender,False,False,False,True,False,False,False,False,False,False,4,1,1
-Laurus nobilis,Bay,full sun,low,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Borago officinalis,Borage,full sun,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Capsicum chinense,Bonnet Pepper,full sun,medium,7.0,8.5,medium,tender,False,False,False,False,False,False,False,True,False,False,3,2,2
-Matricaria recutita,Chamomile (German chamomile),full sun/partial shade,low,5.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Prunus dulcis,Almond,full sun,medium,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,3,2,2
-Malus,Apple,full sun,medium,6.0,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Prunus armeniaca,Apricot,full sun,medium,6.5,8.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Rubus fruticosus agg.,Blackberry,full sun,medium,6.0,7.0,low,very hardy,False,False,False,False,False,True,False,False,False,False,3,1,5
-Ribes nigrum,Blackcurrant,full sun,medium,6.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,3,2,5
-Vaccinium corymbosum,Blueberry,full sun,medium,5.0,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Prunus avium,Cherry,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Ficus carica,Fig,full sun/partial shade,medium,6.0,6.5,high,hardy,False,False,False,False,False,True,False,False,False,False,3,4,4
-Ribes grossularia,Gooseberry,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Vitis vinifera,Grape,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Corylus avellana,Hazel,full sun/partial shade,medium,6.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Humulus lupulus,Hops,full sun,medium,6.5,8.0,high,hardy,False,False,False,False,False,True,False,False,False,False,3,4,4
-Actinidia callosa,Kiwi,full sun,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Citrus limon,Lemon,full sun,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,3,2,2
-Citrus aurantiifolia,Lime,full sun,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,3,2,2
-Rubus loganobaccus,Loganberry,full sun/partial shade,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Prunus persica var. nucipersica,Nectarine,full sun,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Citrus reticulata,Orange,full sun,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,3,2,2
-Prunus persica,Peach,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Pyrus communis,Pear,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Diospyros chinensis,Persimmon,full sun,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Prunus domestica,Plum,full sun,medium,6.0,8.0,medium to high,hardy,False,False,False,False,False,True,False,False,False,False,3,3,4
-Punica granatum,Pomagranate,full sun,medium,5.0,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Rubus idaeus,Raspberry,full sun,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Ribes rubrum,Redcurrant,full sun,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Juglans,Walnut,full sun/partial shade,medium,5.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Castanea sativa,Chestnut,full sun,medium,5.5,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Lonicera caerulea,Honey Berry,partial shade,medium,5.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,3,2,5
-Calendula officinalis,Calendula,full sun/partial shade,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Nepeta cataria,Catnip,full sun,low,6.0,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Chamaemelum nobile,Chamomile (Roman chamomile),full sun/partial shade,low,5.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Valeriana officinalis,Valerian,full sun,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Symphytum officinale,Comfrey,partial shade,medium,6.0,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,3,1,4
-Coriandrum sativum,Coriander,full sun,medium,6.0,7.0,low,hardy,False,False,False,False,False,False,False,False,False,True,3,1,4
-Anethum graveolens,Dill,full sun,medium,5.5,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,True,3,2,4
-Thymus vulgaris,Thyme,full sun,low,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Tanacetum parthenium,Feverfew,full sun,low,6.0,8.0,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Armoracia rusticana,Horseradish,full sun,medium,5.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,3,2,5
-Cymbopogon citratus,Lemon Grass,full sun,high,5.0,8.0,low,very tender,False,False,False,False,False,True,False,False,False,False,4,1,1
-Origanum majorana,Marjoram,full sun,low,6.0,8.0,low,hardy,False,False,False,True,False,False,False,False,False,False,1,1,4
-Mentha spicata,Mint,full sun,low,7.0,8.0,low,very hardy,False,False,False,True,False,False,False,False,False,False,1,1,5
-Origanum vulgare,Oregano,full sun,low,6.0,7.0,low,hardy,False,False,False,True,False,False,False,False,False,False,1,1,4
-Petroselinum crispum,Parsley,full sun/partial shade,medium,5.0,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,True,3,2,4
-Rosmarinus officinalis,Rosemary,full sun,low,5.0,6.0,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Salvia officinalis,Sage,full sun,low,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Artemisia dracunculus,Tarragon (French),full sun,low,6.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,1,1,4
-Fragaria ananassa,Strawberry,full sun,medium,5.5,6.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,3,2,4
-Melissa officinalis,Lemon balm,full sun,medium,6.0,7.5,low,very hardy,False,False,False,False,False,True,False,False,False,False,3,1,5
+taxonomic_name,common_name,water,preferred_ph_lower,preferred_ph_upper,nutrients,temperature_class,cultivation_brassica,cultivation_chenopodiaceae,cultivation_cucurbit,cultivation_lamiaceae,cultivation_legume,cultivation_miscellaneous,cultivation_salad,cultivation_solanaceae,cultivation_solanum,cultivation_umbelliferae,sunlight_full sun/partial shade,sunlight_full sun/partial shade/full shade,sunlight_partial shade,water_code,nutrients_code,temperature_class_code
+Pisum sativum,Pea,very high,6.0,7.5,medium,half hardy,False,False,False,False,True,False,False,False,False,False,False,False,False,5,2,3
+Phaseolus coccineus,Beans (Runner),medium,6.0,6.8,medium,tender,False,False,False,False,True,False,False,False,False,False,False,False,False,3,2,2
+Phaseolus vulgari,Beans (French),medium,6.0,7.5,medium,tender,False,False,False,False,True,False,False,False,False,False,False,False,False,3,2,2
+Vicia faba,Beans (Broad),very low,6.0,7.0,medium,hardy,False,False,False,False,True,False,False,False,False,False,False,True,False,2,2,4
+Brassica oleracea,Cabbage (Spring),high,6.0,7.5,high,hardy,False,False,False,False,True,False,False,False,False,False,False,False,False,4,4,4
+Brassica oleracea (Italica group),Broccoli,medium,6.0,7.5,high,half hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,4,3
+Brassica oleracea (Gemmifera group),Brussels Sprouts,medium,6.0,7.5,high,hardy,True,False,False,False,False,False,False,False,False,False,False,False,False,3,4,4
+Brassica oleracea (Botrytis group),Cauliflower,medium,5.5,7.5,high,hardy,True,False,False,False,False,False,False,False,False,False,False,False,False,3,4,4
+Brassica oleracea (Acephala group),Kale,low,6.0,7.5,high,very hardy,True,False,False,False,False,False,False,False,False,False,False,False,False,1,4,5
+Brassica rapa (Rapa group),Turnip,medium,5.5,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,2,5
+Cucurbita pepo,Zucchini or Courgette,medium,6.0,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,False,False,False,3,4,2
+Cucumis sativus,Cucumber,high,5.5,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,True,False,False,4,4,2
+Cucumis melo,Melon,high,5.5,7.5,high,tender,False,False,True,False,False,False,False,False,False,False,False,False,False,4,4,2
+Cucurbita moschata,Pumpkin,medium,6.0,7.0,high,hardy,False,False,True,False,False,False,False,False,False,False,False,False,False,3,4,4
+Citrullus lanatus,Water melon,high,6.0,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,False,False,False,4,4,2
+Lactuca sativa,Lettuce (Headed),high,6.0,7.0,medium,tender,False,False,False,False,False,False,True,False,False,False,False,False,True,4,2,2
+Apium graveolens,Celery,high,6.0,7.0,high,tender,False,False,False,False,False,False,True,False,False,False,True,False,False,4,4,2
+cichorium intybus,Chicory,low,6.0,6.7,low,hardy,False,False,False,False,False,False,True,False,False,False,True,False,False,1,1,4
+Amaranthus cruentus,Amaranth (Grain),medium,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,2
+Cynara cardunculus,Artichoke (Globe),medium,6.0,7.0,high,tender,True,False,False,False,False,False,False,False,False,False,True,False,False,3,4,2
+Helianthus tuberosus,Artichoke (Jerusalem),low,6.5,7.5,low,very hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,5
+Asparagus officinalis,Asparagus,medium,6.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,2,4
+Solanum melongena,Aubergine,very high,5.5,7.0,high,tender,False,False,False,False,False,False,False,True,False,False,False,False,False,5,4,2
+Phaseolus vulgaris,Beans (Borlotti),medium,6.0,6.5,low,tender,False,False,False,False,True,False,False,False,False,False,True,False,False,3,1,2
+Beta vulgaris,Beetroot,medium,6.0,7.5,medium,half hardy,False,False,False,False,False,False,False,False,False,True,True,False,False,3,2,3
+Brassica rapa (Chinensis group),Bok Choy,high,6.5,7.0,low,tender,True,False,False,False,False,False,False,False,False,False,False,False,False,4,1,2
+Daucus carota,Carrot,high,5.5,7.0,low,hardy,False,False,False,False,False,False,False,False,False,True,True,False,False,4,1,4
+Apium graveolens (var. rapaceum),Celeriac,high,5.5,6.5,medium,hardy,False,False,False,False,False,False,False,False,False,True,False,False,False,4,2,4
+Capsicum annuum (Longum group),Chilli Pepper,medium,7.0,8.5,high,tender,False,False,False,False,False,False,False,True,False,False,False,False,False,3,4,2
+Allium schoenoprasum,Chives,medium,6.0,7.5,low,hardy,False,False,False,False,False,False,False,False,False,False,False,True,False,3,1,4
+Lepidium sativum,Cress,medium,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,False,True,False,3,1,2
+Cichorium endivia,Endive,medium,6.0,7.0,low,half hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,1,3
+Foeniculum vulgare,Fennel,medium,6.0,7.0,high,hardy,False,False,False,False,False,False,False,False,False,True,False,False,False,3,4,4
+Allium sativum,Garlic,medium,5.5,7.5,low,very hardy,False,False,False,False,False,False,False,False,False,False,True,False,False,3,1,5
+Zingiber officinale,Ginger,high,5.0,6.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,True,4,2,2
+Brassica oleracea (Gongylodes group),Kohlrabi,medium,6.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,2,5
+Allium ampeloprasum,Leek,medium,6.5,7.5,medium,very hardy,False,False,False,False,False,False,False,False,False,False,True,False,False,3,2,5
+Valerianella locusta,Lettuce (Lambs/Corn Salad),high,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,4,2,2
+Claytonia perfoliata,Winter Purslane (Miners lettuce),high,6.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,4,2,5
+Pisum sativum (var. macrocarpon),Mangetout,medium,6.0,7.0,medium,half hardy,False,False,False,False,True,False,False,False,False,False,True,False,False,3,2,3
+Brassica juncea (var. japonica),Mizuna,high,6.5,7.0,high,hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,4,4,4
+Brassicaceae sinapis alba,Mustard,medium,6.0,7.5,medium,hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,2,4
+Abelmoschus esculentus,Okra,high,6.0,7.5,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,4,2,2
+Allium cepa,Onion,medium,6.0,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,False,True,False,False,3,2,4
+Allium fistulosum,Onions (Perennial),medium,6.0,7.0,low,very hardy,False,False,False,False,False,False,False,False,False,False,True,False,False,3,1,5
+Pastinaca sativa,Parsnip,medium,5.5,7.5,low,half hardy,False,False,False,False,False,False,False,False,False,True,True,False,False,3,1,3
+Capsicum annuum (Grossum group),Bell Pepper,medium,5.5,7.0,high,tender,False,False,False,False,False,False,False,True,False,False,True,False,False,3,4,2
+Solanum tuberosum,Potatoes (Early),medium,4.5,6.0,low,tender,False,False,False,False,False,False,False,True,False,False,False,False,False,3,1,2
+Portulaca oleracea,Purslane,low,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,1,1,4
+Chenopodium quinoa,Quinoa,low,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,2
+Raphanus raphanistrum (subsp. sativus),Radish,medium,6.0,7.0,low,half hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,1,3
+Rheum rhabarbarum,Rhubarb,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,1,4
+Brassicaceae eruca sativa,Rocket,medium,6.0,7.0,low,half hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,1,3
+Tragopogon porrifolius,Salsify,medium,6.0,7.5,low,half hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,3
+Scorzonera hispanica,Scorzonera (Black salsify),medium,6.0,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,4
+Allium cepa (var. aggregatum),Shallots,medium,6.0,7.0,low,very hardy,False,False,False,False,False,False,False,False,False,False,False,False,False,3,1,5
+Rumex acetosa,Sorrel,medium,5.5,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,2,5
+Glycine max,Soybean,medium,6.0,7.0,medium,half hardy,False,False,False,False,True,False,False,False,False,False,False,False,False,3,2,3
+Spinacia oleracea,Spinach,medium,6.0,7.5,medium,half hardy,False,True,False,False,False,False,False,False,False,False,True,False,False,3,2,3
+Tetragonia tetragonioides,Spinach (New Zealand),medium,6.5,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,True,False,False,3,1,2
+Beta vulgaris (subsp.cicla),Spinach (Perpetual),medium,6.0,7.0,low,very hardy,False,True,False,False,False,False,False,False,False,False,True,False,False,3,1,5
+Cucurbita maxima,Squash (Winter),medium,5.5,7.0,high,tender,False,False,True,False,False,False,False,False,False,False,False,False,False,3,4,2
+Brassica napus,Swede / Rutabaga,medium,5.5,7.0,low,hardy,True,False,False,False,False,False,False,False,False,False,True,False,False,3,1,4
+Ipomoea batatas,Sweet Potato,medium,5.5,6.0,medium,half hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,3
+Zea mayvar. Saccharata,Sweetcorn,high,6.0,7.0,low,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,4,1,2
+Beta vulgari (subsp. vulgaris),Swiss Chard,medium,6.0,7.5,low,very hardy,False,True,False,False,False,False,False,False,False,False,True,False,False,3,1,5
+Brassica rapa (subsp. narinosa),Tatsoi,medium,6.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,False,False,False,3,2,5
+Solanum lycopersicum (var. cerasiforme),Tomato (Cherry),medium,5.5,7.5,high,tender,False,False,False,False,False,False,False,False,True,False,False,False,False,3,4,2
+Solanum lycopersicum,Tomato (Regular),medium,5.5,7.5,high,tender,False,False,False,False,False,False,False,False,True,False,False,False,False,3,4,2
+Pisum sativum (subsp. arvense (L.) Asch),Winter Peas,low,6.0,7.0,medium,very hardy,False,False,False,False,True,False,False,False,False,False,False,False,False,1,2,5
+Ocimum basilicum,Basil,high,5.5,6.5,low,very tender,False,False,False,True,False,False,False,False,False,False,False,False,False,4,1,1
+Laurus nobilis,Bay,low,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Borago officinalis,Borage,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,4
+Capsicum chinense,Bonnet Pepper,medium,7.0,8.5,medium,tender,False,False,False,False,False,False,False,True,False,False,False,False,False,3,2,2
+Matricaria recutita,Chamomile (German chamomile),low,5.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,1,1,4
+Prunus dulcis,Almond,medium,6.0,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,2
+Malus,Apple,medium,6.0,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Prunus armeniaca,Apricot,medium,6.5,8.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Rubus fruticosus agg.,Blackberry,medium,6.0,7.0,low,very hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,5
+Ribes nigrum,Blackcurrant,medium,6.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,5
+Vaccinium corymbosum,Blueberry,medium,5.0,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Prunus avium,Cherry,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Ficus carica,Fig,medium,6.0,6.5,high,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,4,4
+Ribes grossularia,Gooseberry,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Vitis vinifera,Grape,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Corylus avellana,Hazel,medium,6.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,2,4
+Humulus lupulus,Hops,medium,6.5,8.0,high,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,4,4
+Actinidia callosa,Kiwi,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Citrus limon,Lemon,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,2
+Citrus aurantiifolia,Lime,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,2
+Rubus loganobaccus,Loganberry,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,2,4
+Prunus persica var. nucipersica,Nectarine,medium,5.5,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Citrus reticulata,Orange,medium,5.5,7.0,medium,tender,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,2
+Prunus persica,Peach,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Pyrus communis,Pear,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Diospyros chinensis,Persimmon,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,4
+Prunus domestica,Plum,medium,6.0,8.0,medium to high,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,3,4
+Punica granatum,Pomagranate,medium,5.0,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Rubus idaeus,Raspberry,medium,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,4
+Ribes rubrum,Redcurrant,medium,6.0,7.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Juglans,Walnut,medium,5.5,7.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,2,4
+Castanea sativa,Chestnut,medium,5.5,6.0,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Lonicera caerulea,Honey Berry,medium,5.0,7.0,medium,very hardy,False,False,False,False,False,True,False,False,False,False,False,False,True,3,2,5
+Calendula officinalis,Calendula,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,3,1,4
+Nepeta cataria,Catnip,low,6.0,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Chamaemelum nobile,Chamomile (Roman chamomile),low,5.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,True,False,False,1,1,4
+Valeriana officinalis,Valerian,medium,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,4
+Symphytum officinale,Comfrey,medium,6.0,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,True,3,1,4
+Coriandrum sativum,Coriander,medium,6.0,7.0,low,hardy,False,False,False,False,False,False,False,False,False,True,False,False,False,3,1,4
+Anethum graveolens,Dill,medium,5.5,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,True,False,False,False,3,2,4
+Thymus vulgaris,Thyme,low,5.5,7.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Tanacetum parthenium,Feverfew,low,6.0,8.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Armoracia rusticana,Horseradish,medium,5.0,7.5,medium,very hardy,True,False,False,False,False,False,False,False,False,False,False,False,False,3,2,5
+Cymbopogon citratus,Lemon Grass,high,5.0,8.0,low,very tender,False,False,False,False,False,True,False,False,False,False,False,False,False,4,1,1
+Origanum majorana,Marjoram,low,6.0,8.0,low,hardy,False,False,False,True,False,False,False,False,False,False,False,False,False,1,1,4
+Mentha spicata,Mint,low,7.0,8.0,low,very hardy,False,False,False,True,False,False,False,False,False,False,False,False,False,1,1,5
+Origanum vulgare,Oregano,low,6.0,7.0,low,hardy,False,False,False,True,False,False,False,False,False,False,False,False,False,1,1,4
+Petroselinum crispum,Parsley,medium,5.0,7.0,medium,hardy,False,False,False,False,False,False,False,False,False,True,True,False,False,3,2,4
+Rosmarinus officinalis,Rosemary,low,5.0,6.0,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Salvia officinalis,Sage,low,5.5,6.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Artemisia dracunculus,Tarragon (French),low,6.5,7.5,low,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,1,1,4
+Fragaria ananassa,Strawberry,medium,5.5,6.5,medium,hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,2,4
+Melissa officinalis,Lemon balm,medium,6.0,7.5,low,very hardy,False,False,False,False,False,True,False,False,False,False,False,False,False,3,1,5
