@@ -83,6 +83,10 @@ editable_plants["cultivation"] = editable_plants.cultivation.replace(
     {"brassicas": "brassica"}
 )
 
+editable_plants = pd.get_dummies(
+    editable_plants, columns=["cultivation"], drop_first=True
+)
+
 editable_plants.sunlight.unique()
 
 editable_plants.sunlight = editable_plants.sunlight.replace(
