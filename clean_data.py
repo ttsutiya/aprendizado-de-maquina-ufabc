@@ -28,8 +28,10 @@ editable_plants.loc[editable_plants.taxonomic_name == "Brassica oleracea"]
 
 
 # Nao gostaria de remover todas as 27 instancias ja que representaria cerca de ~20% dos dados totais.
-# Mas nota-se que no cabbage e no onion temos pouca diferencas nos dados.
+# Mas nota-se que no cabbage e no onion lidamos com variações de uma mesma espécie, portanto temos pouca diferenças nos dados.
 # Dito isso, iremos pegar apenas uma instancia (a primeira) e remover o resto para nao enviesar a nossa analise.
+# Há alguuns casos que vão passar, e talvez choque o leitor descobrir que grande parte do que comemos são variações de uma mesma espécie,
+# mas como nesses casos há variações significativas, vamos mantê-los.
 mask = editable_plants.duplicated(subset=["taxonomic_name"], keep="first")
 editable_plants = editable_plants[~mask]
 len(editable_plants)
@@ -72,6 +74,8 @@ drop_cols = check_null[check_null > 0].index
 editable_plants = editable_plants.drop(columns=drop_cols)
 
 
+# Aqui fazemos na mão a limpeza dos dados, padronizando os textos e transformando as colunas de texto em códigos numéricos. LabelEncoder não foi usado mas serviria também
+
 editable_plants.columns
 
 editable_plants.iloc[0]
@@ -87,6 +91,7 @@ editable_plants = pd.get_dummies(
     editable_plants, columns=["cultivation"], drop_first=True
 )
 
+# Transformamos em booleano a coluna de cultivo, onde 1 indica que a planta é cultivada em um ambiente específico e 0 indica que não é. Exemplo: Se há valores como nenhum, parcial ou inteiro, podemos passar os binários 001, 010 e 100 respectivamente (One-hot encoding)
 editable_plants.sunlight.unique()
 
 editable_plants.sunlight = editable_plants.sunlight.replace(
@@ -104,6 +109,7 @@ editable_plants.water.unique()
 
 editable_plants.water = editable_plants.water.str.lower().str.strip()
 
+# Daqui pra frente só associamos os adjetivos a valores numéricos
 water_map = {
     "low": 1,
     "very low": 2,
