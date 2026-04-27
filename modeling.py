@@ -15,6 +15,7 @@ df = pd.read_csv("clean_editable_plants.csv")
 # Guardamos os nomes em uma variável separada para referência futura
 nomes_plantas = df["common_name"]
 
+
 df = df.drop(
     columns=[
         "taxonomic_name",
@@ -22,7 +23,6 @@ df = df.drop(
         "water",
         "nutrients",
         "temperature_class",
-        "sunlight",
     ]
 )
 
