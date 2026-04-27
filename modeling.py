@@ -22,6 +22,7 @@ df = df.drop(
         "water",
         "nutrients",
         "temperature_class",
+        "sunlight",
     ]
 )
 
