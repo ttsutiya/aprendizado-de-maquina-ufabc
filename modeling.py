@@ -40,7 +40,7 @@ loo = LeaveOneOut()
 # Criamos uma pipeline para padronizar os dados antes de rodar o LOO.
 log_pipe = Pipeline(
     [
-        ("scaper", StandardScaler()),
+        ("scaler", StandardScaler()),
         ("log_reg", LogisticRegression(max_iter=1000, random_state=0)),
     ]
 )
@@ -80,7 +80,7 @@ print(f"Melhor acurácia LOOCV: {random_search.best_score_:.4f}")
 # KNN REGRESSION
 knn_pipe = Pipeline(
     [
-        ("scaper", StandardScaler()),
+        ("scaler", StandardScaler()),
         ("knn", KNeighborsClassifier()),
     ]
 )
